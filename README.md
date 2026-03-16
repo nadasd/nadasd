@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm SADRAOUI NADA
 
 Computer Engineering Student  
 Specialized in Artificial Intelligence & Data Science
@@ -6,8 +6,8 @@ Specialized in Artificial Intelligence & Data Science
 ## Skills
 - Python
 - Data Analysis
-- Machine Learning (learning)
-- SQL (learning)
+- Machine Learning 
+- SQL 
 
 ## Projects
 Coming soon:
@@ -15,5 +15,5 @@ Coming soon:
 - Machine Learning Project
 
 ## Contact
-LinkedIn: [your linkedin link]
-Email: [your email]
+LinkedIn:Nada Sadraoui
+Email: nadasadraoui.pro@gmail.com
