@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**nadasd/nadasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student  
+Specialized in Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Data Analysis
+- Machine Learning (learning)
+- SQL (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Coming soon:
+- Data Analysis Project
+- Machine Learning Project
+
+## Contact
+LinkedIn: [your linkedin link]
+Email: [your email]
