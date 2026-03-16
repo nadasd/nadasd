@@ -14,5 +14,4 @@ Specialized in Artificial Intelligence & Data Science
 
 ## Contact
 LinkedIn:Nada Sadraoui
-
 Email: nadasadraoui.pro@gmail.com
