@@ -10,10 +10,9 @@ Specialized in Artificial Intelligence & Data Science
 - SQL 
 
 ## Projects
-Coming soon:
-- Data Analysis Project
-- Machine Learning Project
+
 
 ## Contact
 LinkedIn:Nada Sadraoui
+
 Email: nadasadraoui.pro@gmail.com
