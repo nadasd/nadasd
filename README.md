@@ -1,85 +1,69 @@
-Hi, I'm Nada Sadraoui 👋
+# Hi, I'm Nada Sadraoui 👋
 
-AI & Data Engineering Student
+### AI & Data Engineering Student
 
 I build practical data products—from analytics and BI dashboards to machine-learning APIs and reproducible MLOps pipelines.
 
-🎓 Computer Engineering student specializing in Artificial Intelligence & Data Science
+- 🎓 Computer Engineering student specializing in **Artificial Intelligence & Data Science**
+- 🔎 Interested in **Data Analytics, Machine Learning, MLOps, and Business Intelligence**
+- 🧩 Currently building production-minded ML projects with testing, experiment tracking, APIs, and deployment
+- 🌍 Open to **internships and junior opportunities** in data and AI
 
-🔎 Interested in Data Analytics, Machine Learning, MLOps, and Business Intelligence
+---
 
-🧩 Currently building production-minded ML projects with testing, experiment tracking, APIs, and deployment
+## What I work with
 
-🌍 Open to internships and junior opportunities in data and AI
+| Area | Tools |
+|---|---|
+| Programming | Python, SQL |
+| Data & analytics | Pandas, NumPy, PostgreSQL |
+| Machine learning | Scikit-learn, XGBoost, PyTorch, Optuna |
+| MLOps & APIs | MLflow, FastAPI, Docker, GitHub Actions |
+| Business intelligence | Power BI, DAX, Talend, OLAP |
 
-What I work with
+---
 
-Area
+## Featured projects
 
-Tools
-
-Programming
-
-Python, SQL
-
-Data & analytics
-
-Pandas, NumPy, PostgreSQL
-
-Machine learning
-
-Scikit-learn, XGBoost, PyTorch, Optuna
-
-MLOps & APIs
-
-MLflow, FastAPI, Docker, GitHub Actions
-
-Business intelligence
-
-Power BI, DAX, Talend, OLAP
-
-Featured projects
-
-📉 Telco Customer Churn — ML & MLOps
+### 📉 Telco Customer Churn — ML & MLOps
 
 An end-to-end churn prediction project with data validation, preprocessing, XGBoost, threshold selection, MLflow tracking, FastAPI serving, tests, and deployment.
 
-View repository →
+[View repository →](https://github.com/nadasd/telco-customer-churn-ml)
 
-📊 Customer Satisfaction BI — Olist
+### 📊 Customer Satisfaction BI — Olist
 
 A decision-oriented BI project that transforms e-commerce data into a PostgreSQL data mart and Power BI dashboards using ETL, SQL/OLAP, and a star schema.
 
-View repository →
+[View repository →](https://github.com/nadasd/BI-Customer-Satisfaction-Olist)
 
-🛍️ Customer Shopping Behavior Analysis
+### 🛍️ Customer Shopping Behavior Analysis
 
 An analytics workflow combining Python cleaning, PostgreSQL, SQL business questions, customer segmentation, and Power BI reporting.
 
-View repository →
+[View repository →](https://github.com/nadasd/Customer_behavior_analysis)
 
-🔢 MNIST Digit Classification
+### 🔢 MNIST Digit Classification
 
 A PyTorch neural-network project for classifying handwritten digits from the MNIST dataset.
 
-View repository →
+[View repository →](https://github.com/nadasd/mnist-digit-classification)
 
-My engineering principles
+---
 
-Make the business question explicit before choosing a model.
+## My engineering principles
 
-Keep preprocessing and inference consistent.
+- Make the business question explicit before choosing a model.
+- Keep preprocessing and inference consistent.
+- Track experiments and make results reproducible.
+- Test the path from raw input to deployed prediction.
+- Document limitations instead of hiding them.
 
-Track experiments and make results reproducible.
+---
 
-Test the path from raw input to deployed prediction.
+## Contact
 
-Document limitations instead of hiding them.
-
-Contact
-
-LinkedIn
-
-Email
+- [LinkedIn](https://www.linkedin.com/)
+- [Email](mailto:nadasadraoui.pro@gmail.com)
 
 Thanks for visiting my profile.
