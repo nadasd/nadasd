@@ -1,34 +1,85 @@
-# Hi, I'm Sadraoui Nada 👋
+Hi, I'm Nada Sadraoui 👋
 
-### Computer Engineering Student | AI & Data Science
+AI & Data Engineering Student
 
-I'm a Computer Engineering student specialized in **Artificial Intelligence & Data Science**, interested in building data-driven solutions and working with data, machine learning, and business intelligence.
+I build practical data products—from analytics and BI dashboards to machine-learning APIs and reproducible MLOps pipelines.
 
----
+🎓 Computer Engineering student specializing in Artificial Intelligence & Data Science
 
-## 🛠️ Skills
+🔎 Interested in Data Analytics, Machine Learning, MLOps, and Business Intelligence
 
-- **Programming:** Python
-- **Data:** Data Analysis, SQL
-- **Machine Learning:** Machine Learning
-- **Business Intelligence:** Power BI, OLAP
-- **Databases:** PostgreSQL, MySQL
+🧩 Currently building production-minded ML projects with testing, experiment tracking, APIs, and deployment
 
----
+🌍 Open to internships and junior opportunities in data and AI
 
-## 📌 Featured Projects
+What I work with
 
-### 📊 Customer Satisfaction BI — Olist
+Area
 
-End-to-end Business Intelligence project analyzing customer satisfaction using the Olist e-commerce dataset.
+Tools
 
-**Technologies:** PostgreSQL · Talend · SQL · OLAP · Power BI · DAX
+Programming
 
-[View Project](https://github.com/nadasd/BI-Customer-Satisfaction-Olist)
+Python, SQL
 
----
+Data & analytics
 
-## 📫 Contact
+Pandas, NumPy, PostgreSQL
 
-- **LinkedIn:** Nada Sadraoui
-- **Email:** nadasadraoui.pro@gmail.com
+Machine learning
+
+Scikit-learn, XGBoost, PyTorch, Optuna
+
+MLOps & APIs
+
+MLflow, FastAPI, Docker, GitHub Actions
+
+Business intelligence
+
+Power BI, DAX, Talend, OLAP
+
+Featured projects
+
+📉 Telco Customer Churn — ML & MLOps
+
+An end-to-end churn prediction project with data validation, preprocessing, XGBoost, threshold selection, MLflow tracking, FastAPI serving, tests, and deployment.
+
+View repository →
+
+📊 Customer Satisfaction BI — Olist
+
+A decision-oriented BI project that transforms e-commerce data into a PostgreSQL data mart and Power BI dashboards using ETL, SQL/OLAP, and a star schema.
+
+View repository →
+
+🛍️ Customer Shopping Behavior Analysis
+
+An analytics workflow combining Python cleaning, PostgreSQL, SQL business questions, customer segmentation, and Power BI reporting.
+
+View repository →
+
+🔢 MNIST Digit Classification
+
+A PyTorch neural-network project for classifying handwritten digits from the MNIST dataset.
+
+View repository →
+
+My engineering principles
+
+Make the business question explicit before choosing a model.
+
+Keep preprocessing and inference consistent.
+
+Track experiments and make results reproducible.
+
+Test the path from raw input to deployed prediction.
+
+Document limitations instead of hiding them.
+
+Contact
+
+LinkedIn
+
+Email
+
+Thanks for visiting my profile.
